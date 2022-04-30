@@ -41,7 +41,7 @@ A project created by Ibrahim Daoud to automatically trade crypto at local market
     git commit -am "Description goes here": Commits files for changes and leaves a note describing <br> 
     the reason for the updates. <br>
     git push heroku master: Pushes the files to your Heroku web app. <br>
-    Note: Other commands also exist and can be found [here]. (https://devcenter.heroku.com/articles/git)
+    Note: Other commands also exist and can be found [here](https://devcenter.heroku.com/articles/git).
    
 4. Creating Webhooks
    - It is now possible to use Tradingview or other internet sources to send webhooks to the newly created <br>
@@ -49,6 +49,6 @@ A project created by Ibrahim Daoud to automatically trade crypto at local market
    are POST-requests.
    
 5. Debugging
-   - In the case where Debugging is needed, there is a popular software called [Insomnia] (https://insomnia.rest/) <br>
+   - In the case where Debugging is needed, there is a popular software called [Insomnia](https://insomnia.rest/) <br>
    which can be used to send webhooks to the Heroku web app. These webhooks can be garbage (fake info) <br>
    or a real order with a very little buy or sell amount (to not accidentally lose funds on debugging). <br>
