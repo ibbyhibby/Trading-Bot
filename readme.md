@@ -1,4 +1,4 @@
-#CryptoBot
+# CryptoBot
 A project created by Ibrahim Daoud to automatically trade crypto at local market extremas.
 ## Documentation
 1. Introduction
